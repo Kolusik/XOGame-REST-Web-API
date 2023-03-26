@@ -1,6 +1,6 @@
 # Web-API игры Крестики-нолики
 
-Endpoint: https://localhost:7075/xo
+Endpoint: https:/xo
 
 HTTP Methods: 
 
